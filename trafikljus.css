@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+}
+
+.redBox {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 15px rgb(104, 0, 0) solid;
+  margin: 10px;
+}
+
+.redBoxinside {
+  background-color: rgb(255, 135, 135);
+  width: 200px;
+  height: 100px;
+  margin: 100px 0px 0px 0px;
+}
+
+.yellowBox {
+  background-color: rgb(255, 255, 0);
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 15px rgb(177, 122, 18) solid;
+  margin: 10px;
+}
+
+.yellowBoxinside {
+  background-color: rgb(255, 251, 173);
+  width: 100px;
+  height: 100px;
+  margin: 100px 0px 0px 100px;
+}
+
+.greenBox {
+  background-color: rgb(38, 154, 30);
+  width: 200px;
+  height: 200px;
+  padding: 0px;
+  border: 15px rgb(27, 81, 4) solid;
+  margin: 10px;
+}
+
+.greenBoxinside {
+  background-color: rgb(132, 255, 125);
+  width: 100px;
+  height: 100px;
+  margin: 100px 0px 0px 0px;
+}
